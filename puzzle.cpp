@@ -1,3 +1,16 @@
+/*
+ * Author: Nakuru Wubni
+ * Program Name: Puzzle
+ * Description: This is just a classic puzzle game where pieces are moved to sort numbers.
+ * Play the game at dimension of 3 for best console expirience.
+ * The 0 piece represents an empty space and other pieces move relative to its position.
+ * For example, pressing the down key (k) will swap the positions
+ * of any number value above zero with 0, and pressing right (j) will swap the positions
+ * of any number value to the right of zero with 0.
+ * Feel free to use or extend the code in any  of your projects
+ * Cheers!!!
+ */
+
 #include <bits/stdc++.h>
 
 using namespace std;
